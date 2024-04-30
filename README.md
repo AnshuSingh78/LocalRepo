@@ -1,2 +1,2 @@
 # This is my Local repo
-# Added a comment 
+This JavaScript code toggles the visibility of the menu when the menu button is clicked and closes the menu when any link in the navigation is clicked. Now, your website will have dynamic behavior where the menu can be opened and closed on smaller screens, and clicking a link will close the menu.
